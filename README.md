@@ -1,1 +1,2 @@
-Teste para validar acesso SSH e treinar comandos git
+
+Exercicio 1
