@@ -1,1 +1,2 @@
 Praticas com GIT
+Comando pull
